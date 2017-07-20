@@ -1,0 +1,6 @@
+C:\Users\jacob\documents\visual studio 2017\Projects\CodeSignTest\CodeSignTest\bin\Debug\CodeSignTest.exe.config
+C:\Users\jacob\documents\visual studio 2017\Projects\CodeSignTest\CodeSignTest\bin\Debug\CodeSignTest.exe
+C:\Users\jacob\documents\visual studio 2017\Projects\CodeSignTest\CodeSignTest\bin\Debug\CodeSignTest.pdb
+C:\Users\jacob\documents\visual studio 2017\Projects\CodeSignTest\CodeSignTest\obj\Debug\CodeSignTest.csprojResolveAssemblyReference.cache
+C:\Users\jacob\documents\visual studio 2017\Projects\CodeSignTest\CodeSignTest\obj\Debug\CodeSignTest.exe
+C:\Users\jacob\documents\visual studio 2017\Projects\CodeSignTest\CodeSignTest\obj\Debug\CodeSignTest.pdb
